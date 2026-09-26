@@ -102,9 +102,9 @@ const translations = {
     "contact-kicker": "¿TENÉS UNA IDEA DANDO VUELTAS?",
     "contact-title": "Hagámosle un lugar<br /><em>en internet.</em>",
     "contact-copy": "Contame qué hacés y vemos juntos qué tipo de página podría acompañarte.",
-    "contact-whatsapp": "Empezar por WhatsApp",
-    "contact-email": "O por email",
-    "contact-note": "Los datos de contacto se personalizan antes de publicar.",
+    "contact-whatsapp": "WhatsApp · +54 11 2160 4402",
+    "contact-email": "musumeci.facundo@gmail.com",
+    "contact-note": "También podés escribirme directamente por cualquiera de estos medios.",
     "contact-handwriting": "nos leemos pronto",
     "footer-copy": "Diseño web directo, hecho con intención."
   },
@@ -211,9 +211,9 @@ const translations = {
     "contact-kicker": "HAVE AN IDEA TAKING SHAPE?",
     "contact-title": "Let’s make it a place<br /><em>on the internet.</em>",
     "contact-copy": "Tell me what you do and we’ll work out what kind of page could support you.",
-    "contact-whatsapp": "Start on WhatsApp",
-    "contact-email": "Or by email",
-    "contact-note": "Contact details will be added before launch.",
+    "contact-whatsapp": "WhatsApp · +54 11 2160 4402",
+    "contact-email": "musumeci.facundo@gmail.com",
+    "contact-note": "You can also reach me directly through either of these channels.",
     "contact-handwriting": "talk soon",
     "footer-copy": "Straightforward web design, made with intention."
   }
