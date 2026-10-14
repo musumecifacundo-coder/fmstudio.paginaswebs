@@ -29,7 +29,7 @@
 .home-page .hero-copy { position: relative; z-index: 2; display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-end; width: 100%; max-width: none; height: 100%; padding: clamp(11rem, 20vh, 16rem) var(--gutter) clamp(6rem, 9vw, 9rem); }
 .home-page .eyebrow { margin-bottom: 1.4rem; color: #fff; font-size: 11px; letter-spacing: .18em; }
 .home-page .tiny-star { color: #ffc09e; }
-.home-page .hero h1 { max-width: 1320px; margin: 0 0 1.35rem; color: #fff; font: 700 clamp(6rem, 12vw, 13rem)/.75 var(--sans); letter-spacing: -.095em; text-transform: uppercase; text-wrap: nowrap; }
+.home-page .hero h1 { max-width: 1320px; margin: 0 0 1.35rem; color: #fff; font: 700 clamp(6rem, 10vw, 11rem)/.78 var(--sans); letter-spacing: -.095em; text-transform: uppercase; text-wrap: nowrap; }
 .home-page .hero h1 em { color: #ffc09e; font-style: normal; font-weight: 700; }
 .home-page .hero-intro { max-width: 560px; margin: 0 0 1.35rem; color: #fff; font-size: clamp(16px, 1.5vw, 20px); line-height: 1.4; }
 .home-page .hero-actions { gap: 1.2rem 1.8rem; }
@@ -56,7 +56,8 @@
 .home-page .about-heading h2 { max-width: 1180px; margin: 0; font: 700 clamp(4.7rem, 9vw, 10rem)/.82 var(--sans); letter-spacing: -.085em; text-transform: uppercase; }
 .home-page .about-heading h2 em { color: var(--accent); font: 400 .96em/.9 var(--serif); letter-spacing: -.065em; text-transform: none; }
 .home-page .about-visual { aspect-ratio: 1672 / 941; background: #d8d0c5; box-shadow: none; }
-.home-page .about-visual img { object-position: center; }
+.home-page .about-visual { overflow: hidden; }
+.home-page .about-visual img { object-position: center; transform: none; }
 .home-page .about-photo-label { background: var(--ink); }
 .home-page .about-copy { align-self: center; padding-top: 1.4rem; border-top: 1px solid var(--ink); }
 .home-page .about-intro { max-width: 640px; margin: 0 0 1.4rem; font: 400 clamp(1.65rem, 2.45vw, 2.75rem)/1.14 var(--sans); letter-spacing: -.045em; }
